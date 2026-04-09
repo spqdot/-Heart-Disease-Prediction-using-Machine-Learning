@@ -13,6 +13,8 @@ Checked correlations between features
 Visualized distribution of patients with and without heart disease
 Analyzed age vs disease relationship
 Created a correlation heatmap for all features
+![alt](https://github.com/spqdot/-Heart-Disease-Prediction-using-Machine-Learning/blob/main/Screenshot%202026-04-09%20132840.png)
+
 🤖 Models Implemented
 1. Logistic Regression
 Data split: 70% training, 30% testing
