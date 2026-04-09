@@ -47,6 +47,7 @@ n_estimators	Accuracy (%)
 🏆 Best Model
 
 The Random Forest model achieved the highest accuracy of 85.71%, making it the best-performing model for this dataset.
+![alt](https://github.com/spqdot/-Heart-Disease-Prediction-using-Machine-Learning/blob/main/Screenshot%202026-04-09%20133014.png)
 
 📌 Reason:
 Combines multiple decision trees (ensemble learning)
